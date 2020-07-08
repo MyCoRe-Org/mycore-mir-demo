@@ -93,12 +93,12 @@ services:
     image: mycore/mir:2019.06.5
     restart: always
     environment:
-      APP_CONTEXT: mir-last
+      APP_CONTEXT: mir-2019
       JDBC_NAME: miruser
       JDBC_PASSWORD: mypassword
       JDBC_DRIVER: org.postgresql.Driver
       JDBC_URL: jdbc:postgresql:\/\/mir-2019-db:5432\/mir
-      MCR_HOME: /root/.mycore/mir-last/
+      MCR_HOME: /root/.mycore/mir-2019/
       SOLR_URL: http:\/\/mir-2019-solr\:8983
       SOLR_CORE: mir
     volumes:
