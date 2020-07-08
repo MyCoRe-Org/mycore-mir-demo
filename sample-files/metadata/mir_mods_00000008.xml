@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="mir_mods_00000008" label="mir_mods_00000008" version="2016.03-SNAPSHOT" xsi:noNamespaceSchemaLocation="datamodel-mods.xsd"><structure/><metadata xml:lang="de"><def.modsContainer class="MCRMetaXML" heritable="false" notinherit="true"><modsContainer inherited="0">
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:genre type="intern" authorityURI="http://www.mycore.org/classifications/mir_genres" valueURI="http://www.mycore.org/classifications/mir_genres#article"/>
+          <mods:titleInfo xml:lang="de" xlink:type="simple">
+            <mods:title>Standardisierte Nutzungsstatistiken für Open-Access-Repositorien und -Publikationsdienste</mods:title>
+          </mods:titleInfo>
+          <mods:name type="corporate" xlink:type="simple">
+            <mods:displayForm>DFG-Projekt Open-Access-Statistik</mods:displayForm>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name type="corporate" xlink:type="simple">
+            <mods:displayForm>DINI-Arbeitsgruppe Elektronisches Publizieren</mods:displayForm>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name type="corporate" xlink:type="simple">
+            <mods:displayForm>Deutsche Initiative für Netzwerkinformation (DINI)</mods:displayForm>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">edt</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:originInfo eventType="publication">
+            <mods:dateIssued encoding="w3cdtf">2013-10-02</mods:dateIssued>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm authority="rfc4646" type="code">de</mods:languageTerm>
+          </mods:language>
+          <mods:subject xlink:type="simple">
+            <mods:topic>Open Access</mods:topic>
+            <mods:topic>Nutzungsstatistik</mods:topic>
+          </mods:subject>
+          <mods:classification authority="sdnb" displayLabel="sdnb">000</mods:classification>
+          <mods:classification authority="sdnb" displayLabel="sdnb">004</mods:classification>
+          <mods:identifier type="urn">urn:nbn:de:kobv:11-100212755</mods:identifier>
+          <mods:accessCondition type="use and reproduction" xlink:href="http://www.mycore.org/classifications/mir_licenses#rights_reserved" xlink:type="simple"/>
+          <mods:abstract xml:lang="de" xlink:type="simple">Der Dienst Open-Access-Statistik (OA-Statistik) stellt Repositorien und Publikationsdiensten standardisierte Nutzungsstatistiken für Dokumente zur Verfügung. Erklärtes Ziel ist es, so die Akzeptanz von Open Access bei Autorinnen und Autoren sowie bei Leserinnen und Lesern von wissenschaftlichen Publikationen zu erhöhen. Im Gegensatz zu zitationsbasierten Metriken, die den Einfluss einer Publikation retrospektiv bewerten, geben Nutzungsstatistiken aktuelle Relevanz eines digitalen Dokumentes wieder und können so dynamische Trends des World Wide Web abbilden. Im Rahmen des DFG-geförderten Projekts OA-Statistik wurde eine Infrastruktur zur Erfassung und Verarbeitung von standardisierten Nutzungsdaten aufgebaut, die nach Ablauf der zweiten Förderphase im Sommer 2013 an die Verbundzentrale des GBV (VZG) übergeben wurde.</mods:abstract>
+          <mods:relatedItem xlink:href="mir_mods_00000002" type="series" xlink:type="simple">
+            <mods:part>
+              <mods:detail type="volume">
+                <mods:number>13</mods:number>
+              </mods:detail>
+            </mods:part>
+            <mods:genre usage="primary">series</mods:genre>
+            <mods:titleInfo supplied="yes" usage="primary" xml:lang="de" xlink:type="simple">
+              <mods:title>DINI-Schriften</mods:title>
+            </mods:titleInfo>
+            <mods:genre type="intern" authorityURI="http://www.mycore.org/classifications/mir_genres" valueURI="http://www.mycore.org/classifications/mir_genres#series" usage="primary"/>
+            <mods:language usage="primary">
+              <mods:languageTerm authority="rfc4646" type="code">de</mods:languageTerm>
+            </mods:language>
+            <mods:classification authority="sdnb" displayLabel="sdnb" usage="primary">000</mods:classification>
+          </mods:relatedItem>
+        </mods:mods>
+      </modsContainer>
+</def.modsContainer>
+</metadata><service><servdates class="MCRMetaISO8601Date">
+      <servdate type="modifydate" inherited="0">2016-05-12T09:51:14.861Z</servdate>
+      <servdate type="createdate" inherited="0">2016-05-12T09:50:05.493Z</servdate>
+    </servdates><servflags class="MCRMetaLangText">
+      <servflag type="createdby" inherited="0" form="plain">administrator</servflag>
+      <servflag type="modifiedby" inherited="0" form="plain">administrator</servflag>
+    </servflags><servstates class="MCRMetaClassification">
+      <servstate inherited="0" classid="state" categid="published"/>
+    </servstates></service></mycoreobject>

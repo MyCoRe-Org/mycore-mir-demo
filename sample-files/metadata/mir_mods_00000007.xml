@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="mir_mods_00000007" label="mir_mods_00000007" version="2014.07-SNAPSHOT" xsi:noNamespaceSchemaLocation="datamodel-mods.xsd"><structure/><metadata xml:lang="de"><def.modsContainer class="MCRMetaXML" heritable="false" notinherit="true"><modsContainer inherited="0">
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:genre type="intern" authorityURI="http://www.mycore.org/classifications/mir_genres" valueURI="http://www.mycore.org/classifications/mir_genres#poster" usage="primary"/>
+          <mods:titleInfo supplied="yes" usage="primary" xml:lang="de" xlink:type="simple">
+            <mods:title>MyCoRe öffnet Online-Welten zu Archiven, Repositorien und Katalogen</mods:title>
+          </mods:titleInfo>
+          <mods:name type="conference" usage="primary" xlink:type="simple">
+            <mods:namePart>103. Deutscher Bibliothekartag, Bremen, 2014</mods:namePart>
+          </mods:name>
+          <mods:name type="personal" usage="primary" xlink:type="simple">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+            </mods:role>
+            <mods:displayForm>Oeltjen, Wiebke</mods:displayForm>
+            <mods:nameIdentifier typeURI="http://d-nb.info/gnd/" type="gnd">112439632</mods:nameIdentifier>
+            <mods:namePart type="family">Oeltjen</mods:namePart>
+            <mods:namePart type="given">Wiebke</mods:namePart>
+          </mods:name>
+          <mods:name type="personal" usage="primary" xlink:type="simple">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+            </mods:role>
+            <mods:displayForm>Neumann, Kathleen</mods:displayForm>
+            <mods:nameIdentifier typeURI="http://d-nb.info/gnd/" type="gnd">135799082</mods:nameIdentifier>
+            <mods:namePart type="family">Neumann</mods:namePart>
+            <mods:namePart type="given">Kathleen</mods:namePart>
+          </mods:name>
+          <mods:name type="personal" usage="primary" xlink:type="simple">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">ill</mods:roleTerm>
+            </mods:role>
+            <mods:displayForm>Neumann, Tilo</mods:displayForm>
+            <mods:namePart type="family">Neumann</mods:namePart>
+            <mods:namePart type="given">Tilo</mods:namePart>
+          </mods:name>
+          <mods:originInfo>
+            <mods:dateIssued encoding="w3cdtf" keyDate="yes">2014</mods:dateIssued>
+          </mods:originInfo>
+          <mods:location>
+            <mods:url access="raw object">http://www.opus-bayern.de/bib-info/volltexte//2014/1755/</mods:url>
+          </mods:location>
+          <mods:accessCondition type="use and reproduction" xlink:href="http://www.mycore.org/classifications/mir_licenses#rights_reserved" xlink:type="simple"/>
+          <mods:language usage="primary">
+            <mods:languageTerm authority="rfc4646" type="code">de</mods:languageTerm>
+          </mods:language>
+          <mods:abstract xml:lang="de" shareable="no" xlink:href="https://www.opus-bayern.de/bib-info/frontdoor.php?source_opus=1755" xlink:type="simple">MyCoRe ist ein Framework zum Erstellen von Repository-Webanwendungen:&#xD;
+Digitale Inhalte und Metadaten erschließen, recherchieren und präsentieren.</mods:abstract>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:classification authority="sdnb" displayLabel="sdnb">020</mods:classification>
+        </mods:mods>
+      </modsContainer>
+</def.modsContainer>
+</metadata><service><servdates class="MCRMetaISO8601Date">
+      <servdate type="modifydate" inherited="0">2016-05-12T09:34:50.946Z</servdate>
+      <servdate type="createdate" inherited="0">2014-11-18T12:06:19.490Z</servdate>
+    </servdates><servflags class="MCRMetaLangText">
+      <servflag type="createdby" inherited="0" form="plain">administrator</servflag>
+      <servflag type="modifiedby" inherited="0" form="plain">administrator</servflag>
+    </servflags><servstates class="MCRMetaClassification">
+      <servstate inherited="0" classid="state" categid="published"/>
+    </servstates></service></mycoreobject>

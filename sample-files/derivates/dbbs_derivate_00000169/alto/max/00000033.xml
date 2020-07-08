@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-1.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <preProcessingStep>
+        <processingAgency>intranda GmbH, www.intranda.com</processingAgency>
+      </preProcessingStep>
+      <ocrProcessingStep>
+        <processingDateTime>2015-06-07</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY FineReader Engine</softwareName>
+          <softwareVersion>11</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="font0" FONTFAMILY="Times New Roman" FONTSIZE="9" />
+    <TextStyle ID="font1" FONTFAMILY="Times New Roman" FONTSIZE="11" />
+    <TextStyle ID="font2" FONTFAMILY="Times New Roman" FONTSIZE="13" />
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3010" WIDTH="2200">
+      <TopMargin HEIGHT="1539" WIDTH="2200" VPOS="0" HPOS="0">
+      </TopMargin>
+      <LeftMargin HEIGHT="1134" WIDTH="972" VPOS="1539" HPOS="0">
+      </LeftMargin>
+      <RightMargin HEIGHT="1134" WIDTH="243" VPOS="1539" HPOS="1957">
+      </RightMargin>
+      <BottomMargin HEIGHT="337" WIDTH="2200" VPOS="2673" HPOS="0">
+        <TextBlock ID="Page1_Block1" HEIGHT="36" WIDTH="200" VPOS="2974" HPOS="904" language="de" STYLEREFS="font0">
+          <Shape>
+            <Polygon POINTS="904,2983 1104,2983 1104,3024 904,3024 904,2983" />
+          </Shape>
+          <TextLine HEIGHT="5" WIDTH="4" VPOS="3001" HPOS="909">
+            <String STYLE="bold" WC="1." CONTENT="-" HEIGHT="5" WIDTH="4" VPOS="3001" HPOS="909" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="Page1_Block2" HEIGHT="124" WIDTH="543" VPOS="2673" HPOS="931" TYPE="separatorsBox">
+          <GraphicalElement ID="Page1_Block3" HEIGHT="20" WIDTH="539" VPOS="2777" HPOS="933" />
+          <GraphicalElement ID="Page1_Block4" HEIGHT="123" WIDTH="11" VPOS="2673" HPOS="931" />
+          <GraphicalElement ID="Page1_Block5" HEIGHT="117" WIDTH="11" VPOS="2673" HPOS="1461" />
+        </ComposedBlock>
+        <GraphicalElement ID="Page1_Block6" HEIGHT="12" WIDTH="528" VPOS="2708" HPOS="944" />
+        <GraphicalElement ID="Page1_Block7" HEIGHT="3" WIDTH="117" VPOS="3007" HPOS="2082" />
+        <GraphicalElement ID="Page1_Block8" HEIGHT="336" WIDTH="16" VPOS="2673" HPOS="0" />
+      </BottomMargin>
+      <PrintSpace HEIGHT="1134" WIDTH="985" VPOS="1539" HPOS="972">
+        <TextBlock ID="Page1_Block9" HEIGHT="39" WIDTH="35" VPOS="1539" HPOS="1922" language="de" STYLEREFS="font1">
+          <Shape>
+            <Polygon POINTS="1935,1556 1969,1556 1969,1595 1935,1595 1935,1556" />
+          </Shape>
+          <TextLine HEIGHT="27" WIDTH="23" VPOS="1545" HPOS="1928">
+            <String STYLE="italics" WC="0.4300000072" CONTENT="f" HEIGHT="27" WIDTH="23" VPOS="1545" HPOS="1928" />
+          </TextLine>
+        </TextBlock>
+        <Illustration ID="Page1_Block10" HEIGHT="66" WIDTH="84" VPOS="1875" HPOS="1032">
+          <Shape>
+            <Polygon POINTS="1042,1885 1125,1885 1125,1950 1042,1950 1042,1885" />
+          </Shape>
+        </Illustration>
+        <Illustration ID="Page1_Block11" HEIGHT="137" WIDTH="321" VPOS="2292" HPOS="1018">
+          <Shape>
+            <Polygon POINTS="1024,2304 1344,2304 1344,2438 1024,2438 1024,2304" />
+          </Shape>
+        </Illustration>
+        <TextBlock ID="Page1_Block12" HEIGHT="171" WIDTH="454" VPOS="2502" HPOS="972" language="de" STYLEREFS="font0">
+          <Shape>
+            <Polygon POINTS="976,2514 1429,2514 1429,2681 976,2681 976,2514" />
+          </Shape>
+          <TextLine HEIGHT="48" WIDTH="441" VPOS="2508" HPOS="978">
+            <String STYLE="bold" WC="0.6524999738" CONTENT="Pädagogische" HEIGHT="46" WIDTH="226" VPOS="2510" HPOS="978" />
+            <SP WIDTH="22" VPOS="2511" HPOS="1205" />
+            <String STYLE="bold" WC="0.7089999914" CONTENT="Hochschule" HEIGHT="35" WIDTH="191" VPOS="2508" HPOS="1228" />
+          </TextLine>
+          <TextLine HEIGHT="44" WIDTH="235" VPOS="2562" HPOS="1084">
+            <String STYLE="bold" WC="0.5024999976" CONTENT="Braunschweig" HEIGHT="44" WIDTH="235" VPOS="2562" HPOS="1084" />
+          </TextLine>
+          <TextLine HEIGHT="45" WIDTH="428" VPOS="2622" HPOS="987" STYLEREFS="font2">
+            <String STYLE="bold" WC="0.8388888836" CONTENT="-BÜCHEREI" HEIGHT="45" WIDTH="390" VPOS="2622" HPOS="987" />
+            <SP WIDTH="20" VPOS="2625" HPOS="1378" />
+            <String STYLE="bold" WC="1." CONTENT="-" HEIGHT="7" WIDTH="16" VPOS="2648" HPOS="1399" />
+          </TextLine>
+        </TextBlock>
+        <ComposedBlock ID="Page1_Block13" HEIGHT="197" WIDTH="501" VPOS="2476" HPOS="972" TYPE="separatorsBox">
+          <GraphicalElement ID="Page1_Block14" HEIGHT="17" WIDTH="500" VPOS="2476" HPOS="972" />
+          <GraphicalElement ID="Page1_Block15" HEIGHT="196" WIDTH="12" VPOS="2477" HPOS="1461" />
+        </ComposedBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

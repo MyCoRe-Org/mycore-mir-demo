@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><mycoreobject xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="mir_mods_00000003" label="mir_mods_00000003" version="2014.07-SNAPSHOT" xsi:noNamespaceSchemaLocation="datamodel-mods.xsd"><structure/><metadata xml:lang="de"><def.modsContainer class="MCRMetaXML" heritable="false" notinherit="true"><modsContainer inherited="0">
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+          <mods:genre type="intern" authorityURI="http://www.mycore.org/classifications/mir_genres" valueURI="http://www.mycore.org/classifications/mir_genres#article" usage="primary"/>
+          <mods:titleInfo supplied="yes" usage="primary" xml:lang="de" xlink:type="simple">
+            <mods:title>Open-Access-Publikationsfonds</mods:title>
+            <mods:subTitle>Handreichung</mods:subTitle>
+          </mods:titleInfo>
+          <mods:name type="personal" usage="primary" xlink:type="simple">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">edt</mods:roleTerm>
+            </mods:role>
+            <mods:displayForm>Arbeitsgruppe Open Access der Schwerpunktinitiative</mods:displayForm>
+            <mods:namePart type="given">Arbeitsgruppe</mods:namePart>
+            <mods:namePart type="given">Open</mods:namePart>
+            <mods:namePart type="given">Access</mods:namePart>
+            <mods:namePart type="given">der</mods:namePart>
+            <mods:namePart type="family">Schwerpunktinitiative</mods:namePart>
+          </mods:name>
+          <mods:name type="personal" usage="primary" xlink:type="simple">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">red</mods:roleTerm>
+            </mods:role>
+            <mods:displayForm>Bruch, Christoph</mods:displayForm>
+            <mods:namePart type="family">Bruch</mods:namePart>
+            <mods:namePart type="given">Christoph</mods:namePart>
+          </mods:name>
+          <mods:name type="personal" usage="primary" xlink:type="simple">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">red</mods:roleTerm>
+            </mods:role>
+            <mods:displayForm>Fournier, Johannes</mods:displayForm>
+            <mods:nameIdentifier typeURI="http://d-nb.info/gnd/" type="gnd">120310287</mods:nameIdentifier>
+            <mods:namePart type="family">Fournier</mods:namePart>
+            <mods:namePart type="given">Johannes</mods:namePart>
+          </mods:name>
+          <mods:name type="personal" usage="primary" xlink:type="simple">
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="code">red</mods:roleTerm>
+            </mods:role>
+            <mods:displayForm>Pampel, Heinz</mods:displayForm>
+            <mods:nameIdentifier typeURI="http://d-nb.info/gnd/" type="gnd">133013103</mods:nameIdentifier>
+            <mods:namePart type="family">Pampel</mods:namePart>
+            <mods:namePart type="given">Heinz</mods:namePart>
+          </mods:name>
+          <mods:originInfo>
+            <mods:dateIssued encoding="w3cdtf" keyDate="yes">2014-09</mods:dateIssued>
+          </mods:originInfo>
+          <mods:language usage="primary">
+            <mods:languageTerm authority="rfc4646" type="code">de</mods:languageTerm>
+          </mods:language>
+          <mods:identifier type="doi" invalid="yes">10.2312/allianzoa.006</mods:identifier>
+          <mods:abstract xml:lang="de" shareable="no" xlink:type="simple">Die Arbeitsgruppe Open Access in der Schwerpunktinitiative "Digitale Information" der Allianz der deutschen Wissenschaftsorganisationen hat heute die Veröffentlichung der Handreichung "Open-Access-Publikationsfonds" bekannt gegeben.&#xD;
+&#xD;
+Zentrales Anliegen von Publikationsfonds ist es, den Transformationsprozess von subskriptionsbasiertem zu Publikationsgebühren-basiertem Open-Access-Publizieren effizient und nachhaltig zu gestalten.</mods:abstract>
+          <mods:note type="mcr_intern" xlink:type="simple">Alle Texte dieser Veröffentlichung, ausgenommen Zitate, sind unter&#xD;
+einem Creative Commons Attribution 4.0 International (CC BY 4.0)&#xD;
+Lizenzvertrag lizenziert.&#xD;
+http://creativecommons.org/licenses/by/4.0/</mods:note>
+          <mods:classification authority="sdnb" displayLabel="sdnb" usage="primary">020</mods:classification>
+          <mods:accessCondition type="use and reproduction" xlink:href="http://www.mycore.org/classifications/mir_licenses#cc_by_4.0" xlink:type="simple"/>
+          <mods:typeOfResource>text</mods:typeOfResource>
+        </mods:mods>
+      </modsContainer>
+</def.modsContainer>
+</metadata><service><servdates class="MCRMetaISO8601Date">
+      <servdate type="modifydate" inherited="0">2016-05-12T09:39:12.667Z</servdate>
+      <servdate type="createdate" inherited="0">2014-10-31T09:11:24.538Z</servdate>
+    </servdates><servflags class="MCRMetaLangText">
+      <servflag type="createdby" inherited="0" form="plain">administrator</servflag>
+      <servflag type="modifiedby" inherited="0" form="plain">administrator</servflag>
+    </servflags><servstates class="MCRMetaClassification">
+      <servstate inherited="0" classid="state" categid="published"/>
+    </servstates></service></mycoreobject>

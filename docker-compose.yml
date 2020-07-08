@@ -1,0 +1,111 @@
+version: '3.1'
+
+services:
+  mir-master-db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: miruser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: mir
+    volumes:
+    - ./pg/master/:/var/lib/postgresql/data/
+  mir-master-solr:
+    image: vzgreposis/mir-solr:lts
+    restart: always
+    volumes:
+    - ./solr/master/:/opt/solr-data
+    environment:
+      SOLR_HOME: /opt/solr-data
+  mir-master:
+    image: mycore/mir:master
+    restart: always
+    environment:
+      APP_CONTEXT: mir-master
+      JDBC_NAME: miruser
+      JDBC_PASSWORD: mypassword
+      JDBC_DRIVER: org.postgresql.Driver
+      JDBC_URL: jdbc:postgresql:\/\/mir-master-db:5432\/mir
+      MCR_HOME: /root/.mycore/mir-master/
+      SOLR_URL: http:\/\/mir-master-solr\:8983
+      SOLR_CORE: mir
+    volumes:
+    - ./mir/master:/root/.mycore/mir-master/
+    depends_on:
+      - mir-master-db
+      - mir-master-solr
+    ports:
+      - 8281:8080
+      - 8282:8009
+  mir-2020-db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: miruser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: mir
+    volumes:
+      - ./pg/2020/:/var/lib/postgresql/data/
+  mir-2020-solr:
+    image: vzgreposis/mir-solr:lts
+    restart: always
+    volumes:
+      - ./solr/2020/:/opt/solr-data
+    environment:
+      SOLR_HOME: /opt/solr-data
+  mir-2020:
+    image: mycore/mir:2020.06.0
+    restart: always
+    environment:
+      APP_CONTEXT: mir
+      JDBC_NAME: miruser
+      JDBC_PASSWORD: mypassword
+      JDBC_DRIVER: org.postgresql.Driver
+      JDBC_URL: jdbc:postgresql:\/\/mir-2020-db:5432\/mir
+      MCR_HOME: /root/.mycore/mir/
+      SOLR_URL: http:\/\/mir-2020-solr\:8983
+      SOLR_CORE: mir
+    volumes:
+      - ./mir/2020:/root/.mycore/mir/
+    depends_on:
+      - mir-2020-db
+      - mir-2020-solr
+    ports:
+      - 8283:8080
+      - 8284:8009
+  mir-2019-db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: miruser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: mir
+    volumes:
+      - ./pg/2019/:/var/lib/postgresql/data/
+  mir-2019-solr:
+    image: vzgreposis/mir-solr:lts
+    restart: always
+    volumes:
+      - ./solr/2019/:/opt/solr-data
+    environment:
+      SOLR_HOME: /opt/solr-data
+  mir-2019:
+    image: mycore/mir:2019.06.5
+    restart: always
+    environment:
+      APP_CONTEXT: mir-last
+      JDBC_NAME: miruser
+      JDBC_PASSWORD: mypassword
+      JDBC_DRIVER: org.postgresql.Driver
+      JDBC_URL: jdbc:postgresql:\/\/mir-2019-db:5432\/mir
+      MCR_HOME: /root/.mycore/mir-last/
+      SOLR_URL: http:\/\/mir-2019-solr\:8983
+      SOLR_CORE: mir
+    volumes:
+      - ./mir/2019:/root/.mycore/mir-last/
+    depends_on:
+      - mir-2019-db
+      - mir-2019-solr
+    ports:
+      - 8285:8080
+      - 8286:8009

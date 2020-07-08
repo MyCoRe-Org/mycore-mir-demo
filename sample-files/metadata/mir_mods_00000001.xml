@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreobject xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              ID="mir_mods_00000001" label="mir_mods_00000001" version="2014.07-SNAPSHOT"
+              xsi:noNamespaceSchemaLocation="datamodel-mods.xsd">
+    <structure/>
+    <metadata xml:lang="de">
+        <def.modsContainer class="MCRMetaXML" heritable="false" notinherit="true">
+            <modsContainer inherited="0">
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:genre type="intern" authorityURI="http://www.mycore.org/classifications/mir_genres"
+                                valueURI="http://www.mycore.org/classifications/mir_genres#article" usage="primary"/>
+                    <mods:titleInfo supplied="yes" usage="primary" xml:lang="de" xlink:type="simple">
+                        <mods:title>DINI-Zertifikat für Open-Access-Repositorien und -Publikationsdienste 2013
+                        </mods:title>
+                    </mods:titleInfo>
+                    <mods:name type="corporate" usage="primary" xlink:type="simple">
+                        <mods:role>
+                            <mods:roleTerm authority="marcrelator" type="code">edt</mods:roleTerm>
+                        </mods:role>
+                        <mods:displayForm>Deutsche Initiative für Netzwerkinformation (DINI)</mods:displayForm>
+                        <mods:namePart type="family">Deutsche Initiative für Netzwerkinformation (DINI)</mods:namePart>
+                    </mods:name>
+                    <mods:name type="corporate" usage="primary" xlink:type="simple">
+                        <mods:role>
+                            <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+                        </mods:role>
+                        <mods:displayForm>Arbeitsgruppe Elektronisches Publizieren DINI</mods:displayForm>
+                        <mods:namePart type="family">Arbeitsgruppe Elektronisches Publizieren DINI</mods:namePart>
+                    </mods:name>
+                    <mods:originInfo>
+                        <mods:dateIssued encoding="w3cdtf" keyDate="yes">2014-05-15</mods:dateIssued>
+                    </mods:originInfo>
+                    <mods:physicalDescription>
+                        <mods:extent supplied="yes">68 Seiten</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:language usage="primary">
+                        <mods:languageTerm authority="rfc4646" type="code">de</mods:languageTerm>
+                    </mods:language>
+                    <mods:identifier type="urn" invalid="yes">urn:nbn:de:kobv:11-100217162</mods:identifier>
+                    <mods:abstract xml:lang="de" shareable="no" xlink:type="simple">Das Publikationswesen ist ein
+                        wesentlicher Stützpfeiler des wissenschaftlichen Erkenntnisfortschritts und der Wissenschaft
+                        insgesamt. Zu seinen Kennzeichen gehören (a) die Organisation einer effektiven Kommunikation
+                        zwischen Wissenschaftler/-innen (zwischen Autor/-innen und allen potenziellen Rezipient/-innen,
+                        d. h. die Sicherstellung einer adäquaten Verbreitung), (b) ein hohes Maß an
+                        Vertrauenswürdigkeit, das den Nutzer/-innen des Publikationswesens (d. h. den
+                        Wissenschaftler/-innen) vermittelt wird (z. B. in Bezug auf das Prioritätsrecht, die Wahrung des
+                        Urheberrechts sowie die Authentizität und die inhaltliche Qualität wissenschaftlicher Arbeiten),
+                        (c) Nachhaltigkeit und Nachprüfbarkeit (dauerhafte Zitierbarkeit und langfristige Verfügbarkeit,
+                        Nachvollziehbarkeit von einzelnen Schritten auf dem Weg zur Veröffentlichung).&#xD;
+                        Mit dem vorliegenden Kriterienkatalog, der dem DINI-Zertifikat zugrunde liegt, werden diese
+                        allgemeinen Erwartungen an das wissenschaftliche Publizieren in konkrete Mindestanforderungen
+                        übersetzt, die an Open-Access-Repositorien und Publikationsdienste zu stellen sind. Sie bilden
+                        als Plattformen für die Veröffentlichung und Bereitstellung wissenschaftlicher Publikationen in
+                        elektronischer Form wichtige Knotenpunkte für den wissenschaftlichen Kommunikationsprozess und
+                        tragen als Open-Access-Dienste zur Verbreitung und Demokratisierung von Wissen bei. Unter dem
+                        Begriff Open-Access-Repositorien und -Publikationsdienste werden insbesondere die folgenden
+                        Dienste zusammengefasst (siehe auch die Begriffsdefinitionen in Anhang B):&#xD;
+                        • Institutionelle Open-Access-Repositorien&#xD;
+                        • Fachbezogene Open-Access-Repositorien&#xD;
+                        • Open-Access-Zeitschriften
+                    </mods:abstract>
+                    <mods:relatedItem type="series" xlink:href="mir_mods_00000002" xlink:type="simple">
+                        <mods:part>
+                            <mods:detail type="volume">
+                                <mods:number>3</mods:number>
+                            </mods:detail>
+                        </mods:part>
+                        <mods:genre usage="primary">series</mods:genre>
+                        <mods:titleInfo supplied="yes" usage="primary" xml:lang="de" xlink:type="simple">
+                            <mods:title>DINI-Schriften</mods:title>
+                        </mods:titleInfo>
+                        <mods:genre type="intern" authorityURI="http://www.mycore.org/classifications/mir_genres"
+                                    valueURI="http://www.mycore.org/classifications/mir_genres#series" usage="primary"/>
+                        <mods:language usage="primary">
+                            <mods:languageTerm authority="rfc4646" type="code">de</mods:languageTerm>
+                        </mods:language>
+                        <mods:classification authority="sdnb" displayLabel="sdnb" usage="primary">000
+                        </mods:classification>
+                    </mods:relatedItem>
+                    <mods:accessCondition type="use and reproduction"
+                                          xlink:href="http://www.mycore.org/classifications/mir_licenses#cc_by_3.0"
+                                          xlink:type="simple"/>
+                    <mods:classification authority="sdnb" displayLabel="sdnb" usage="primary">000</mods:classification>
+                    <mods:classification authority="sdnb" displayLabel="sdnb">004</mods:classification>
+                    <mods:typeOfResource>text</mods:typeOfResource>
+                    <mods:originInfo eventType="publication">
+                        <mods:dateIssued encoding="w3cdtf">2014-05-15</mods:dateIssued>
+                    </mods:originInfo>
+                </mods:mods>
+            </modsContainer>
+        </def.modsContainer>
+    </metadata>
+    <service>
+        <servdates class="MCRMetaISO8601Date">
+            <servdate type="modifydate" inherited="0">2016-05-12T09:56:49.534Z</servdate>
+            <servdate type="createdate" inherited="0">2014-10-31T07:27:58.634Z</servdate>
+        </servdates>
+        <servflags class="MCRMetaLangText">
+            <servflag type="createdby" inherited="0" form="plain">administrator</servflag>
+            <servflag type="modifiedby" inherited="0" form="plain">administrator</servflag>
+        </servflags>
+        <servstates class="MCRMetaClassification">
+            <servstate inherited="0" classid="state" categid="published"/>
+        </servstates>
+    </service>
+</mycoreobject>

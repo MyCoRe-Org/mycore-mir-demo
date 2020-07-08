@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycoreobject xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="datamodel-mods.xsd" ID="dbbs_mods_00000169" label="dbbs_mods_00000169">
+    <structure/>
+    <metadata>
+        <def.modsContainer class="MCRMetaXML" heritable="false" notinherit="true">
+            <modsContainer inherited="0">
+                <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+                    <mods:name usage="primary" type="personal" xlink:type="simple">
+                        <mods:displayForm>Hoffmann, Heinrich</mods:displayForm>
+                        <mods:role>
+                            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                        </mods:role>
+                        <mods:namePart type="family">Hoffmann</mods:namePart>
+                        <mods:namePart type="given">Heinrich</mods:namePart>
+                    </mods:name>
+                    <mods:titleInfo xml:lang="de" xlink:type="simple">
+                        <mods:title>Der Struwwelpeter : oder lustige Geschichten und drollige Bilder für Kinder von 3 -
+                            6 Jahren
+                        </mods:title>
+                    </mods:titleInfo>
+                    <mods:subject xlink:type="simple">
+                        <mods:topic>Kinderbuchsammlung der Universitätsbibliothek Braunschweig</mods:topic>
+                    </mods:subject>
+                    <mods:classification displayLabel="ddc" authority="ddc">398</mods:classification>
+                    <mods:classification displayLabel="ddc" authority="ddc">802</mods:classification>
+                    <mods:classification generator="mir_genres2diniPublType-mycore"
+                                         authorityURI="http://www.mycore.org/classifications/diniPublType"
+                                         valueURI="http://www.mycore.org/classifications/diniPublType#book"/>
+                    <mods:originInfo eventType="publication">
+                        <mods:edition>400. Auflage</mods:edition>
+                        <mods:dateIssued encoding="w3cdtf">1917</mods:dateIssued>
+                        <mods:place>
+                            <mods:placeTerm type="text">Frankfurt a. M.</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Rütten &amp; Loening</mods:publisher>
+                    </mods:originInfo>
+                    <mods:genre authorityURI="http://www.mycore.org/classifications/mir_genres" type="intern"
+                                valueURI="http://www.mycore.org/classifications/mir_genres#book"/>
+                    <mods:typeOfResource>text</mods:typeOfResource>
+                    <mods:language usage="primary">
+                        <mods:languageTerm type="code" authority="rfc5646">de</mods:languageTerm>
+                    </mods:language>
+                    <mods:physicalDescription>
+                        <mods:extent>35 S.</mods:extent>
+                    </mods:physicalDescription>
+                    <mods:accessCondition type="use and reproduction"
+                                          xlink:href="http://www.mycore.org/classifications/mir_licenses#cc_by-nc_4.0"
+                                          xlink:type="simple"/>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:084-12012711218</mods:identifier>
+                    <mods:location>
+                        <mods:shelfLocator>2007-0968</mods:shelfLocator>
+                        <mods:url>http://www.digibib.tu-bs.de/?docid=00000169</mods:url>
+                    </mods:location>
+                    <mods:accessCondition type="restriction on access"
+                                          xlink:href="http://www.mycore.org/classifications/mir_access#unlimited"
+                                          xlink:type="simple"/>
+                </mods:mods>
+            </modsContainer>
+        </def.modsContainer>
+    </metadata>
+    <service>
+        <servdates class="MCRMetaISO8601Date">
+            <servdate type="createdate" inherited="0">2005-10-21T00:00:00.000Z</servdate>
+            <servdate type="modifydate" inherited="0">2020-07-02T16:42:50.811Z</servdate>
+        </servdates>
+        <servflags class="MCRMetaLangText">
+            <servflag type="createdby" inherited="0" form="plain">administrator</servflag>
+            <servflag type="modifiedby" inherited="0" form="plain">administrator</servflag>
+        </servflags>
+        <servstates class="MCRMetaClassification">
+            <servstate inherited="0" classid="state" categid="published"/>
+        </servstates>
+    </service>
+</mycoreobject>

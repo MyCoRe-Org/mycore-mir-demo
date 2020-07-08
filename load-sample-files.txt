@@ -1,0 +1,4 @@
+load all objects in topological order from directory /opt/mir/sample-files/metadata
+load all derivates from directory /opt/mir/sample-files/derivates
+repair metadata search of type mods
+repair derivate search of type derivate

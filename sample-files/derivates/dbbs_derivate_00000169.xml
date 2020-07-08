@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycorederivate xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datamodel-derivate.xsd" ID="dbbs_derivate_00000169" label="Dokument" version="2016.06.0.1-SNAPSHOT" order="1">
+  <derivate display="true">
+    <linkmetas class="MCRMetaLinkID" heritable="false">
+      <linkmeta inherited="0" xlink:type="locator" xlink:href="dbbs_mods_00000169" />
+    </linkmetas>
+    <internals class="MCRMetaIFS" heritable="false">
+      <internal inherited="0" sourcepath="dbbs_derivate_00000169" maindoc="max/00000002.jpg" />
+    </internals>
+  </derivate>
+  <service>
+    <servdates class="MCRMetaISO8601Date">
+      <servdate type="createdate" inherited="0">2016-10-18T17:57:45.380Z</servdate>
+      <servdate type="modifydate" inherited="0">2020-07-02T16:42:51.550Z</servdate>
+    </servdates>
+  </service>
+</mycorederivate>

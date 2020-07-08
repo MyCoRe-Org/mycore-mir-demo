@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mycorederivate xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:noNamespaceSchemaLocation="datamodel-derivate.xsd" ID="Document_derivate_00000002"
+                label="data object from mir_mods_00000003" version="2014.07-SNAPSHOT" order="1">
+    <derivate display="true">
+        <linkmetas class="MCRMetaLinkID" heritable="false">
+            <linkmeta inherited="0" xlink:type="locator" xlink:href="mir_mods_00000003"/>
+        </linkmetas>
+        <internals class="MCRMetaIFS" heritable="false">
+            <internal inherited="0" sourcepath="Document_derivate_00000002" maindoc="handreichung-publikationsfonds.pdf"
+                      ifsid="hhd0ow1i00oaddw0"/>
+        </internals>
+    </derivate>
+    <service>
+        <servdates class="MCRMetaISO8601Date">
+            <servdate type="createdate" inherited="0">2014-10-31T09:12:20.641Z</servdate>
+            <servdate type="modifydate" inherited="0">2014-10-31T09:12:20.641Z</servdate>
+        </servdates>
+    </service>
+</mycorederivate>

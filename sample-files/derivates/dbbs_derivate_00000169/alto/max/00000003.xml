@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-1.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <preProcessingStep>
+        <processingAgency>intranda GmbH, www.intranda.com</processingAgency>
+      </preProcessingStep>
+      <ocrProcessingStep>
+        <processingDateTime>2015-06-07</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY FineReader Engine</softwareName>
+          <softwareVersion>11</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="font0" FONTFAMILY="Times New Roman" FONTSIZE="29" />
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3145" WIDTH="2440">
+      <BottomMargin HEIGHT="1" WIDTH="2440" VPOS="3144" HPOS="0">
+      </BottomMargin>
+      <PrintSpace HEIGHT="3144" WIDTH="2440" VPOS="0" HPOS="0">
+        <ComposedBlock ID="Page1_Block1" HEIGHT="3144" WIDTH="2440" VPOS="0" HPOS="0" TYPE="container">
+          <Shape>
+            <Polygon POINTS="6,1 2446,1 2446,3149 6,3149 6,1" />
+          </Shape>
+          <Illustration ID="Page1_Block2" HEIGHT="1018" WIDTH="2440" VPOS="0" HPOS="0">
+            <Shape>
+              <Polygon POINTS="6,1 2446,1 2446,1018 6,1018 6,1" />
+            </Shape>
+          </Illustration>
+          <TextBlock ID="Page1_Block3" HEIGHT="79" WIDTH="71" VPOS="1650" HPOS="2275" language="de" STYLEREFS="font0">
+            <Shape>
+              <Polygon POINTS="2278,1655 2349,1655 2349,1734 2278,1734 2278,1655" />
+            </Shape>
+            <TextLine HEIGHT="78" WIDTH="32" VPOS="1650" HPOS="2308">
+              <String STYLE="bold" WC="0.3000000119" CONTENT="t" HEIGHT="78" WIDTH="32" VPOS="1650" HPOS="2308" />
+            </TextLine>
+          </TextBlock>
+          <Illustration ID="Page1_Block4" HEIGHT="685" WIDTH="47" VPOS="2262" HPOS="2299">
+            <Shape>
+              <Polygon POINTS="2301,2267 2346,2267 2346,2952 2301,2952 2301,2267" />
+            </Shape>
+          </Illustration>
+          <Illustration ID="Page1_Block5" HEIGHT="51" WIDTH="139" VPOS="3093" HPOS="2300" />
+        </ComposedBlock>
+        <GraphicalElement ID="Page1_Block6" HEIGHT="769" WIDTH="22" VPOS="2375" HPOS="0" />
+        <GraphicalElement ID="Page1_Block7" HEIGHT="2360" WIDTH="37" VPOS="1" HPOS="0" />
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

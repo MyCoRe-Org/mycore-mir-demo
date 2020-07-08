@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd">
+  <mets:fileSec>
+    <mets:fileGrp USE="MASTER">
+      <mets:file ID="master_c4e77bc4-4c40-4ffd-bf2b-92f132162a18" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000001.jpg" />
+      </mets:file>
+      <mets:file ID="master_d132010f-53ec-4149-86bd-f9e6f0df8fd5" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000002.jpg" />
+      </mets:file>
+      <mets:file ID="master_3b3fab8d-8a03-4be8-ad04-2c5d47d7c2c3" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000003.jpg" />
+      </mets:file>
+      <mets:file ID="master_8525794a-e995-4928-bdac-82719d268215" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000004.jpg" />
+      </mets:file>
+      <mets:file ID="master_c271663a-f750-4f4b-80fe-6a96528acba7" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000005.jpg" />
+      </mets:file>
+      <mets:file ID="master_7ef8c68b-c6b6-40e8-9f9e-3e3bf096a8b1" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000006.jpg" />
+      </mets:file>
+      <mets:file ID="master_0fe232c6-6341-40b8-b928-790fd1e39a5c" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000007.jpg" />
+      </mets:file>
+      <mets:file ID="master_6c6e70ff-196c-4649-a869-8fdddff41b22" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000008.jpg" />
+      </mets:file>
+      <mets:file ID="master_b6137a46-e69a-4786-90ee-34e28e8efd7e" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000009.jpg" />
+      </mets:file>
+      <mets:file ID="master_be984196-2c97-4fa3-9cff-579cd9a301a5" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000010.jpg" />
+      </mets:file>
+      <mets:file ID="master_3ec4f133-7046-4818-8bed-1140f3d4e4fe" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000011.jpg" />
+      </mets:file>
+      <mets:file ID="master_29084c7a-122f-4123-8300-e43222e74331" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000012.jpg" />
+      </mets:file>
+      <mets:file ID="master_33599ae4-19fa-4968-8e46-1208e987b441" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000013.jpg" />
+      </mets:file>
+      <mets:file ID="master_850c7c93-90c2-48b3-9b7e-2c0db5515865" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000014.jpg" />
+      </mets:file>
+      <mets:file ID="master_dcdd5110-514f-4e04-845b-10ec51d7da29" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000015.jpg" />
+      </mets:file>
+      <mets:file ID="master_1dc9677b-559a-40f8-9be3-6233ff59412f" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000016.jpg" />
+      </mets:file>
+      <mets:file ID="master_b297ee59-3242-4ff4-8fe1-bed94c11b417" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000017.jpg" />
+      </mets:file>
+      <mets:file ID="master_d4c7b9f6-32df-449d-b26e-219f91577bdb" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000018.jpg" />
+      </mets:file>
+      <mets:file ID="master_bb6b515a-0484-4ba9-ab5f-6d742a56f25e" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000019.jpg" />
+      </mets:file>
+      <mets:file ID="master_7ea6beae-7e00-4880-8724-5cbf279ae76b" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000020.jpg" />
+      </mets:file>
+      <mets:file ID="master_8c173a56-06ca-424b-bd42-ff67a7b2e9c1" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000021.jpg" />
+      </mets:file>
+      <mets:file ID="master_ce525715-2321-4100-964a-e22c01f769ae" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000022.jpg" />
+      </mets:file>
+      <mets:file ID="master_8874417e-6465-452a-bb89-af5fc88d9aea" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000023.jpg" />
+      </mets:file>
+      <mets:file ID="master_159df19d-a36f-454f-91cc-ffcfc8f8f299" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000024.jpg" />
+      </mets:file>
+      <mets:file ID="master_3fd0e573-e141-423c-8ac6-c6a6b79f2025" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000025.jpg" />
+      </mets:file>
+      <mets:file ID="master_4dc626c6-d6f8-4244-a388-7701704f5015" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000026.jpg" />
+      </mets:file>
+      <mets:file ID="master_097dd53a-3598-4bcf-8579-a862e3e73c32" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000027.jpg" />
+      </mets:file>
+      <mets:file ID="master_afc207e9-ba86-4465-85aa-83376e23994c" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000028.jpg" />
+      </mets:file>
+      <mets:file ID="master_c946647a-2cac-474c-a8fb-ecbb6825685b" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000029.jpg" />
+      </mets:file>
+      <mets:file ID="master_1252e9fb-f74b-4ab5-b3e4-ba5c9d37f45a" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000030.jpg" />
+      </mets:file>
+      <mets:file ID="master_9e0c5fcf-dcde-4734-b073-db3afc7a496b" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000031.jpg" />
+      </mets:file>
+      <mets:file ID="master_46817d33-ec2c-4a7f-bb50-09842c0f402e" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000032.jpg" />
+      </mets:file>
+      <mets:file ID="master_9183e910-e03d-4dc8-a7d5-387fa69e721d" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000033.jpg" />
+      </mets:file>
+      <mets:file ID="master_76c696f3-15c8-4182-8930-a1f59a23ea0b" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000034.jpg" />
+      </mets:file>
+      <mets:file ID="master_3494c49b-6747-481e-8ed5-94d23629d832" MIMETYPE="image/jpeg">
+        <mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="max/00000035.jpg" />
+      </mets:file>
+    </mets:fileGrp>
+  <mets:fileGrp USE="ALTO"><mets:file ID="alto_b09622fe-7f2c-49ff-a1ef-1a752b12e7dd" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000001.xml" /></mets:file><mets:file ID="alto_4ad1879c-56b6-4f2e-8042-c4c748c37e7b" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000002.xml" /></mets:file><mets:file ID="alto_6f690b54-ccb9-44e5-978a-d5e72ce3d0f6" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000003.xml" /></mets:file><mets:file ID="alto_0280ca66-5099-4eb9-bafe-3474ba1afecb" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000004.xml" /></mets:file><mets:file ID="alto_3bf07b00-22c6-498f-8345-6c84503bd475" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000005.xml" /></mets:file><mets:file ID="alto_4181a068-2ce7-43b7-b713-c2057ca63544" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000006.xml" /></mets:file><mets:file ID="alto_1808c250-49d2-4456-b9bb-c1af9b6fc58b" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000007.xml" /></mets:file><mets:file ID="alto_71962f6f-3fc1-4ac8-a103-840182105253" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000008.xml" /></mets:file><mets:file ID="alto_7f619d87-ff54-4568-a3ee-067b98c69d7a" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000009.xml" /></mets:file><mets:file ID="alto_f4a02e72-9694-4258-bfdf-dec8057ec30f" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000010.xml" /></mets:file><mets:file ID="alto_30316e67-2ddb-4fbe-8816-f08add587727" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000011.xml" /></mets:file><mets:file ID="alto_819e9eba-dcff-41af-9e03-d493b441d9f1" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000012.xml" /></mets:file><mets:file ID="alto_9393d8fe-d23a-4966-8529-8c8a8d1bb86b" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000013.xml" /></mets:file><mets:file ID="alto_4125a3fc-97d4-4def-812d-202aa5fb1096" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000014.xml" /></mets:file><mets:file ID="alto_a2efdfcf-7649-452d-8edc-7a477e34e71e" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000015.xml" /></mets:file><mets:file ID="alto_6c506ad6-81c6-431f-b865-912aa1b54354" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000016.xml" /></mets:file><mets:file ID="alto_fb4f2447-af6a-4ce5-947b-561362019c27" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000017.xml" /></mets:file><mets:file ID="alto_3349254b-99a6-40fe-a5e9-be9b73f578c5" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000018.xml" /></mets:file><mets:file ID="alto_62070ef5-c4f6-4454-af93-bc3f870f4c8e" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000019.xml" /></mets:file><mets:file ID="alto_be2b36fa-3e7d-48bf-bddb-053bd1a7ad2b" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000020.xml" /></mets:file><mets:file ID="alto_fd784087-6629-4d65-841f-17f57dbe98d3" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000021.xml" /></mets:file><mets:file ID="alto_70576fc8-96df-44cf-9655-213b13c4e660" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000022.xml" /></mets:file><mets:file ID="alto_e3170d24-7ad0-4c01-b13d-dbc065beb217" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000023.xml" /></mets:file><mets:file ID="alto_cd69de70-f0bb-4787-8103-41c33fc166f7" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000024.xml" /></mets:file><mets:file ID="alto_c3b15165-c2cc-472c-a3c6-df28f06cc85f" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000025.xml" /></mets:file><mets:file ID="alto_e1b1544a-5cd3-4bf1-a3d2-e41b15105c1e" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000026.xml" /></mets:file><mets:file ID="alto_267b263d-6d5e-486f-8153-a6fff69d697d" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000027.xml" /></mets:file><mets:file ID="alto_083c4a26-1a4d-496a-9370-ac6b71aef40a" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000028.xml" /></mets:file><mets:file ID="alto_97e55cfb-5e9f-45ef-9c06-941af170f8fc" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000029.xml" /></mets:file><mets:file ID="alto_a34f84e6-6695-41eb-b827-076114a2722a" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000030.xml" /></mets:file><mets:file ID="alto_e9e23c3a-c399-49f6-8663-8f60934fd788" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000031.xml" /></mets:file><mets:file ID="alto_f47e2f2d-9fd9-4e49-b8f5-2f4bed981e21" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000032.xml" /></mets:file><mets:file ID="alto_2dc3678f-47a5-460a-baa8-c06999a1130f" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000033.xml" /></mets:file><mets:file ID="alto_9be83d17-db3e-4e82-ac64-a367a8f1bcd0" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000034.xml" /></mets:file><mets:file ID="alto_169de0e3-bc62-480d-9ce8-988263b4bdfa" MIMETYPE="text/xml"><mets:FLocat xmlns:xlink="http://www.w3.org/1999/xlink" LOCTYPE="URL" xlink:href="alto/max/00000035.xml" /></mets:file></mets:fileGrp></mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div ID="phys_f8788098-56f6-4855-abd2-4d99ec5b93ab" TYPE="physSequence">
+      <mets:div ORDER="1" ID="phys_b9bff814-670c-436e-b576-d3d050c9826d" TYPE="page" ORDERLABEL=" - ">
+        <mets:fptr FILEID="master_c4e77bc4-4c40-4ffd-bf2b-92f132162a18" />
+      <mets:fptr FILEID="alto_b09622fe-7f2c-49ff-a1ef-1a752b12e7dd" /></mets:div>
+      <mets:div ORDER="2" ID="phys_47d58cab-71be-4bbc-a85c-582e9759edac" TYPE="page" ORDERLABEL=" - ">
+        <mets:fptr FILEID="master_d132010f-53ec-4149-86bd-f9e6f0df8fd5" />
+      <mets:fptr FILEID="alto_4ad1879c-56b6-4f2e-8042-c4c748c37e7b" /></mets:div>
+      <mets:div ORDER="3" ID="phys_c61e2a6a-052e-4176-96b8-c979e1deae00" TYPE="page" ORDERLABEL=" - ">
+        <mets:fptr FILEID="master_3b3fab8d-8a03-4be8-ad04-2c5d47d7c2c3" />
+      <mets:fptr FILEID="alto_6f690b54-ccb9-44e5-978a-d5e72ce3d0f6" /></mets:div>
+      <mets:div ORDER="4" ID="phys_b88a6eb0-2bf8-4552-8d01-1982e8e7e6aa" TYPE="page" ORDERLABEL=" - ">
+        <mets:fptr FILEID="master_8525794a-e995-4928-bdac-82719d268215" />
+      <mets:fptr FILEID="alto_0280ca66-5099-4eb9-bafe-3474ba1afecb" /></mets:div>
+      <mets:div ORDER="5" ID="phys_58936233-4ff8-4e90-8930-9aab49ba8a13" TYPE="page" ORDERLABEL=" - ">
+        <mets:fptr FILEID="master_c271663a-f750-4f4b-80fe-6a96528acba7" />
+      <mets:fptr FILEID="alto_3bf07b00-22c6-498f-8345-6c84503bd475" /></mets:div>
+      <mets:div ORDER="6" ID="phys_402d0f6a-8011-4652-920f-f6d9f7d3571c" TYPE="page" ORDERLABEL=" - ">
+        <mets:fptr FILEID="master_7ef8c68b-c6b6-40e8-9f9e-3e3bf096a8b1" />
+      <mets:fptr FILEID="alto_4181a068-2ce7-43b7-b713-c2057ca63544" /></mets:div>
+      <mets:div ORDER="7" ID="phys_7a14d4a3-db69-49ac-8766-58f3ae04e071" TYPE="page" ORDERLABEL=" - ">
+        <mets:fptr FILEID="master_0fe232c6-6341-40b8-b928-790fd1e39a5c" />
+      <mets:fptr FILEID="alto_1808c250-49d2-4456-b9bb-c1af9b6fc58b" /></mets:div>
+      <mets:div ORDER="8" ID="phys_9ae09812-296a-4083-ae01-97058053b2bb" TYPE="page" ORDERLABEL="1">
+        <mets:fptr FILEID="master_6c6e70ff-196c-4649-a869-8fdddff41b22" />
+      <mets:fptr FILEID="alto_71962f6f-3fc1-4ac8-a103-840182105253" /></mets:div>
+      <mets:div ORDER="9" ID="phys_e94978f0-0099-418b-a134-f3ba7c7a6937" TYPE="page" ORDERLABEL="1">
+        <mets:fptr FILEID="master_b6137a46-e69a-4786-90ee-34e28e8efd7e" />
+      <mets:fptr FILEID="alto_7f619d87-ff54-4568-a3ee-067b98c69d7a" /></mets:div>
+      <mets:div ORDER="10" ID="phys_906864f7-f994-41b5-8696-7fc65d27e654" TYPE="page" ORDERLABEL="2">
+        <mets:fptr FILEID="master_be984196-2c97-4fa3-9cff-579cd9a301a5" />
+      <mets:fptr FILEID="alto_f4a02e72-9694-4258-bfdf-dec8057ec30f" /></mets:div>
+      <mets:div ORDER="11" ID="phys_aeb757a7-3897-4925-beef-aefba542425c" TYPE="page" ORDERLABEL="3">
+        <mets:fptr FILEID="master_3ec4f133-7046-4818-8bed-1140f3d4e4fe" />
+      <mets:fptr FILEID="alto_30316e67-2ddb-4fbe-8816-f08add587727" /></mets:div>
+      <mets:div ORDER="12" ID="phys_e02d3ae7-3a48-44e2-b31b-30534d95104a" TYPE="page" ORDERLABEL="4">
+        <mets:fptr FILEID="master_29084c7a-122f-4123-8300-e43222e74331" />
+      <mets:fptr FILEID="alto_819e9eba-dcff-41af-9e03-d493b441d9f1" /></mets:div>
+      <mets:div ORDER="13" ID="phys_5294b9a3-7c71-4901-9e93-46df83bc0067" TYPE="page" ORDERLABEL="5">
+        <mets:fptr FILEID="master_33599ae4-19fa-4968-8e46-1208e987b441" />
+      <mets:fptr FILEID="alto_9393d8fe-d23a-4966-8529-8c8a8d1bb86b" /></mets:div>
+      <mets:div ORDER="14" ID="phys_f569cd84-7c68-4d2a-8309-a1d8c89a6bd3" TYPE="page" ORDERLABEL="6">
+        <mets:fptr FILEID="master_850c7c93-90c2-48b3-9b7e-2c0db5515865" />
+      <mets:fptr FILEID="alto_4125a3fc-97d4-4def-812d-202aa5fb1096" /></mets:div>
+      <mets:div ORDER="15" ID="phys_6fb60ce8-24f3-48c5-8adf-b7055fdebf57" TYPE="page" ORDERLABEL="7">
+        <mets:fptr FILEID="master_dcdd5110-514f-4e04-845b-10ec51d7da29" />
+      <mets:fptr FILEID="alto_a2efdfcf-7649-452d-8edc-7a477e34e71e" /></mets:div>
+      <mets:div ORDER="16" ID="phys_96401aa0-50a8-468a-9c96-a3578f63971c" TYPE="page" ORDERLABEL="8">
+        <mets:fptr FILEID="master_1dc9677b-559a-40f8-9be3-6233ff59412f" />
+      <mets:fptr FILEID="alto_6c506ad6-81c6-431f-b865-912aa1b54354" /></mets:div>
+      <mets:div ORDER="17" ID="phys_1bc06f3e-0488-40d0-910d-338d1ad1bff9" TYPE="page" ORDERLABEL="9">
+        <mets:fptr FILEID="master_b297ee59-3242-4ff4-8fe1-bed94c11b417" />
+      <mets:fptr FILEID="alto_fb4f2447-af6a-4ce5-947b-561362019c27" /></mets:div>
+      <mets:div ORDER="18" ID="phys_8814c171-7730-4e1c-bdac-56999aabc075" TYPE="page" ORDERLABEL="10">
+        <mets:fptr FILEID="master_d4c7b9f6-32df-449d-b26e-219f91577bdb" />
+      <mets:fptr FILEID="alto_3349254b-99a6-40fe-a5e9-be9b73f578c5" /></mets:div>
+      <mets:div ORDER="19" ID="phys_18991c1f-6036-43e8-854a-b911ce698dff" TYPE="page" ORDERLABEL="11">
+        <mets:fptr FILEID="master_bb6b515a-0484-4ba9-ab5f-6d742a56f25e" />
+      <mets:fptr FILEID="alto_62070ef5-c4f6-4454-af93-bc3f870f4c8e" /></mets:div>
+      <mets:div ORDER="20" ID="phys_6b04d2ba-8655-41fc-910c-ec213eb9e443" TYPE="page" ORDERLABEL="12">
+        <mets:fptr FILEID="master_7ea6beae-7e00-4880-8724-5cbf279ae76b" />
+      <mets:fptr FILEID="alto_be2b36fa-3e7d-48bf-bddb-053bd1a7ad2b" /></mets:div>
+      <mets:div ORDER="21" ID="phys_eee06201-86c8-4946-8189-d6d516c79d3a" TYPE="page" ORDERLABEL="13">
+        <mets:fptr FILEID="master_8c173a56-06ca-424b-bd42-ff67a7b2e9c1" />
+      <mets:fptr FILEID="alto_fd784087-6629-4d65-841f-17f57dbe98d3" /></mets:div>
+      <mets:div ORDER="22" ID="phys_43afec64-3bae-474f-bfa4-0732a038a207" TYPE="page" ORDERLABEL="14">
+        <mets:fptr FILEID="master_ce525715-2321-4100-964a-e22c01f769ae" />
+      <mets:fptr FILEID="alto_70576fc8-96df-44cf-9655-213b13c4e660" /></mets:div>
+      <mets:div ORDER="23" ID="phys_e6f7d393-509e-446c-8c47-4ed65f936f6f" TYPE="page" ORDERLABEL="15">
+        <mets:fptr FILEID="master_8874417e-6465-452a-bb89-af5fc88d9aea" />
+      <mets:fptr FILEID="alto_e3170d24-7ad0-4c01-b13d-dbc065beb217" /></mets:div>
+      <mets:div ORDER="24" ID="phys_475a9fa2-fd90-4de1-9ce5-7f636b87d5d5" TYPE="page" ORDERLABEL="16">
+        <mets:fptr FILEID="master_159df19d-a36f-454f-91cc-ffcfc8f8f299" />
+      <mets:fptr FILEID="alto_cd69de70-f0bb-4787-8103-41c33fc166f7" /></mets:div>
+      <mets:div ORDER="25" ID="phys_aee9ad39-d0bf-443c-a73c-63a0bf90076b" TYPE="page" ORDERLABEL="17">
+        <mets:fptr FILEID="master_3fd0e573-e141-423c-8ac6-c6a6b79f2025" />
+      <mets:fptr FILEID="alto_c3b15165-c2cc-472c-a3c6-df28f06cc85f" /></mets:div>
+      <mets:div ORDER="26" ID="phys_4b2817ea-e90b-41b8-91f0-b31524ff2c02" TYPE="page" ORDERLABEL="18">
+        <mets:fptr FILEID="master_4dc626c6-d6f8-4244-a388-7701704f5015" />
+      <mets:fptr FILEID="alto_e1b1544a-5cd3-4bf1-a3d2-e41b15105c1e" /></mets:div>
+      <mets:div ORDER="27" ID="phys_c792bbb5-5c98-414c-a5f3-4a7c644ed81a" TYPE="page" ORDERLABEL="19">
+        <mets:fptr FILEID="master_097dd53a-3598-4bcf-8579-a862e3e73c32" />
+      <mets:fptr FILEID="alto_267b263d-6d5e-486f-8153-a6fff69d697d" /></mets:div>
+      <mets:div ORDER="28" ID="phys_7b677e07-ca2b-4003-8f28-18975d6262bc" TYPE="page" ORDERLABEL="20">
+        <mets:fptr FILEID="master_afc207e9-ba86-4465-85aa-83376e23994c" />
+      <mets:fptr FILEID="alto_083c4a26-1a4d-496a-9370-ac6b71aef40a" /></mets:div>
+      <mets:div ORDER="29" ID="phys_e577ed43-3962-4f05-aa65-4a1c195701ff" TYPE="page" ORDERLABEL="21">
+        <mets:fptr FILEID="master_c946647a-2cac-474c-a8fb-ecbb6825685b" />
+      <mets:fptr FILEID="alto_97e55cfb-5e9f-45ef-9c06-941af170f8fc" /></mets:div>
+      <mets:div ORDER="30" ID="phys_13ebb38c-f702-4a90-ab12-931dd7a824d2" TYPE="page" ORDERLABEL="22">
+        <mets:fptr FILEID="master_1252e9fb-f74b-4ab5-b3e4-ba5c9d37f45a" />
+      <mets:fptr FILEID="alto_a34f84e6-6695-41eb-b827-076114a2722a" /></mets:div>
+      <mets:div ORDER="31" ID="phys_deaca16b-a286-4e19-ab6d-84fa4d393367" TYPE="page" ORDERLABEL="23">
+        <mets:fptr FILEID="master_9e0c5fcf-dcde-4734-b073-db3afc7a496b" />
+      <mets:fptr FILEID="alto_e9e23c3a-c399-49f6-8663-8f60934fd788" /></mets:div>
+      <mets:div ORDER="32" ID="phys_ed5570cb-8443-42a8-a742-f1ff2e3d48ef" TYPE="page" ORDERLABEL="24">
+        <mets:fptr FILEID="master_46817d33-ec2c-4a7f-bb50-09842c0f402e" />
+      <mets:fptr FILEID="alto_f47e2f2d-9fd9-4e49-b8f5-2f4bed981e21" /></mets:div>
+      <mets:div ORDER="33" ID="phys_047d65c8-b4d6-46f9-9ccb-47db4047ff43" TYPE="page" ORDERLABEL="25">
+        <mets:fptr FILEID="master_9183e910-e03d-4dc8-a7d5-387fa69e721d" />
+      <mets:fptr FILEID="alto_2dc3678f-47a5-460a-baa8-c06999a1130f" /></mets:div>
+      <mets:div ORDER="34" ID="phys_7402b94b-9cfb-44d0-98c5-efbf254ff9f7" TYPE="page" ORDERLABEL="26">
+        <mets:fptr FILEID="master_76c696f3-15c8-4182-8930-a1f59a23ea0b" />
+      <mets:fptr FILEID="alto_9be83d17-db3e-4e82-ac64-a367a8f1bcd0" /></mets:div>
+      <mets:div ORDER="35" ID="phys_8bbd070f-e09b-45fc-9188-4d2bf17d8c99" TYPE="page" ORDERLABEL="27">
+        <mets:fptr FILEID="master_3494c49b-6747-481e-8ed5-94d23629d832" />
+      <mets:fptr FILEID="alto_169de0e3-bc62-480d-9ce8-988263b4bdfa" /></mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap TYPE="LOGICAL">
+    <mets:div ORDER="1" ID="log_0f9d204e-be64-40bc-b696-1d455e8ac277" TYPE="monograph" LABEL="Der Struwwelpeter">
+      <mets:div ORDER="1" ID="log_3fae786b-81a7-418e-a59f-433e71eece95" TYPE="chapter" LABEL="Handschriftliche Notiz ?" />
+      <mets:div ORDER="2" ID="log_0884712f-a303-48d8-a557-7127f31d2aa5" TYPE="preface" LABEL="Wie der &quot;Struwwelpeter&quot; entstand" />
+      <mets:div ORDER="3" LABEL="Titelblatt" ID="log_984e9e0d-8cfd-4efe-9379-5dd92b952aa7" TYPE="title_page" />
+      <mets:div ORDER="4" ID="log_c2807374-5c1a-4ccc-b099-74d8265e3793" TYPE="chapter" LABEL="Der Struwwelpeter - Jubiläumsblatt zur hundertsten Auflage" />
+      <mets:div ORDER="5" ID="log_9d2f79c9-6ca8-443a-8ec4-0895ef85efd9" TYPE="chapter" LABEL="Der Struwwelpeter" />
+      <mets:div ORDER="6" ID="log_24dcc18b-0cac-4619-ba73-d31f85817cbd" TYPE="chapter" LABEL="Die Geschichte vom bösen Friederich" />
+      <mets:div ORDER="7" ID="log_e223284b-709c-4788-8962-66a636dae502" TYPE="chapter" LABEL="Die gar traurige Geschichte mit dem Feuerzeug" />
+      <mets:div ORDER="8" ID="log_1416c724-1289-49c6-8ac4-3ce5f1291016" TYPE="chapter" LABEL="Die Geschichte von den schwarzen Buben" />
+      <mets:div ORDER="9" ID="log_21fca130-0191-482a-af89-68c2ef910917" TYPE="chapter" LABEL="Die Geschichte vom wilden Jäger" />
+      <mets:div ORDER="10" ID="log_b060156b-3998-4364-b7b4-3ef270b80e4a" TYPE="chapter" LABEL="Die Geschichte vom Daumenlutscher" />
+      <mets:div ORDER="11" ID="log_8690cc06-4c03-40a7-bc32-eb897be8b852" TYPE="chapter" LABEL="Die Geschichte vom Suppen-Kaspar" />
+      <mets:div ORDER="12" ID="log_42f4b09c-f4c8-43ea-8dbf-630ad590bfe8" TYPE="chapter" LABEL="Die Geschichte vom Zappel-Philipp" />
+      <mets:div ORDER="13" ID="log_073532cc-11d4-4cf2-a893-5ba8d0f1d8b7" TYPE="chapter" LABEL="Die Geschichte vom Hanns Guck-in-die Luft" />
+      <mets:div ORDER="14" ID="log_dfc7969b-f56a-48ca-ac95-d015fe3727ae" TYPE="chapter" LABEL="Die Geschichte vom fliegenden Robert" />
+    </mets:div>
+  </mets:structMap>
+  <mets:structLink>
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_21fca130-0191-482a-af89-68c2ef910917" xlink:to="phys_43afec64-3bae-474f-bfa4-0732a038a207" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_b060156b-3998-4364-b7b4-3ef270b80e4a" xlink:to="phys_475a9fa2-fd90-4de1-9ce5-7f636b87d5d5" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_984e9e0d-8cfd-4efe-9379-5dd92b952aa7" xlink:to="phys_9ae09812-296a-4083-ae01-97058053b2bb" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_8690cc06-4c03-40a7-bc32-eb897be8b852" xlink:to="phys_aee9ad39-d0bf-443c-a73c-63a0bf90076b" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_42f4b09c-f4c8-43ea-8dbf-630ad590bfe8" xlink:to="phys_c792bbb5-5c98-414c-a5f3-4a7c644ed81a" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_0884712f-a303-48d8-a557-7127f31d2aa5" xlink:to="phys_402d0f6a-8011-4652-920f-f6d9f7d3571c" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_24dcc18b-0cac-4619-ba73-d31f85817cbd" xlink:to="phys_e02d3ae7-3a48-44e2-b31b-30534d95104a" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_24dcc18b-0cac-4619-ba73-d31f85817cbd" xlink:to="phys_5294b9a3-7c71-4901-9e93-46df83bc0067" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_073532cc-11d4-4cf2-a893-5ba8d0f1d8b7" xlink:to="phys_e577ed43-3962-4f05-aa65-4a1c195701ff" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_073532cc-11d4-4cf2-a893-5ba8d0f1d8b7" xlink:to="phys_13ebb38c-f702-4a90-ab12-931dd7a824d2" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_21fca130-0191-482a-af89-68c2ef910917" xlink:to="phys_eee06201-86c8-4946-8189-d6d516c79d3a" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_0f9d204e-be64-40bc-b696-1d455e8ac277" xlink:to="phys_8bbd070f-e09b-45fc-9188-4d2bf17d8c99" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_e223284b-709c-4788-8962-66a636dae502" xlink:to="phys_f569cd84-7c68-4d2a-8309-a1d8c89a6bd3" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_dfc7969b-f56a-48ca-ac95-d015fe3727ae" xlink:to="phys_047d65c8-b4d6-46f9-9ccb-47db4047ff43" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_073532cc-11d4-4cf2-a893-5ba8d0f1d8b7" xlink:to="phys_deaca16b-a286-4e19-ab6d-84fa4d393367" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_3fae786b-81a7-418e-a59f-433e71eece95" xlink:to="phys_b88a6eb0-2bf8-4552-8d01-1982e8e7e6aa" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_42f4b09c-f4c8-43ea-8dbf-630ad590bfe8" xlink:to="phys_4b2817ea-e90b-41b8-91f0-b31524ff2c02" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_9d2f79c9-6ca8-443a-8ec4-0895ef85efd9" xlink:to="phys_906864f7-f994-41b5-8696-7fc65d27e654" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_b060156b-3998-4364-b7b4-3ef270b80e4a" xlink:to="phys_e6f7d393-509e-446c-8c47-4ed65f936f6f" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_0f9d204e-be64-40bc-b696-1d455e8ac277" xlink:to="phys_b9bff814-670c-436e-b576-d3d050c9826d" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_e223284b-709c-4788-8962-66a636dae502" xlink:to="phys_6fb60ce8-24f3-48c5-8adf-b7055fdebf57" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_21fca130-0191-482a-af89-68c2ef910917" xlink:to="phys_6b04d2ba-8655-41fc-910c-ec213eb9e443" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_0f9d204e-be64-40bc-b696-1d455e8ac277" xlink:to="phys_c61e2a6a-052e-4176-96b8-c979e1deae00" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_24dcc18b-0cac-4619-ba73-d31f85817cbd" xlink:to="phys_aeb757a7-3897-4925-beef-aefba542425c" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_1416c724-1289-49c6-8ac4-3ce5f1291016" xlink:to="phys_8814c171-7730-4e1c-bdac-56999aabc075" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_1416c724-1289-49c6-8ac4-3ce5f1291016" xlink:to="phys_18991c1f-6036-43e8-854a-b911ce698dff" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_0884712f-a303-48d8-a557-7127f31d2aa5" xlink:to="phys_7a14d4a3-db69-49ac-8766-58f3ae04e071" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_dfc7969b-f56a-48ca-ac95-d015fe3727ae" xlink:to="phys_ed5570cb-8443-42a8-a742-f1ff2e3d48ef" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_1416c724-1289-49c6-8ac4-3ce5f1291016" xlink:to="phys_1bc06f3e-0488-40d0-910d-338d1ad1bff9" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_1416c724-1289-49c6-8ac4-3ce5f1291016" xlink:to="phys_96401aa0-50a8-468a-9c96-a3578f63971c" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_0f9d204e-be64-40bc-b696-1d455e8ac277" xlink:to="phys_7402b94b-9cfb-44d0-98c5-efbf254ff9f7" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_42f4b09c-f4c8-43ea-8dbf-630ad590bfe8" xlink:to="phys_7b677e07-ca2b-4003-8f28-18975d6262bc" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_3fae786b-81a7-418e-a59f-433e71eece95" xlink:to="phys_58936233-4ff8-4e90-8930-9aab49ba8a13" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_0f9d204e-be64-40bc-b696-1d455e8ac277" xlink:to="phys_47d58cab-71be-4bbc-a85c-582e9759edac" />
+    <mets:smLink xmlns:xlink="http://www.w3.org/1999/xlink" xlink:from="log_c2807374-5c1a-4ccc-b099-74d8265e3793" xlink:to="phys_e94978f0-0099-418b-a134-f3ba7c7a6937" />
+  </mets:structLink>
+</mets:mets>

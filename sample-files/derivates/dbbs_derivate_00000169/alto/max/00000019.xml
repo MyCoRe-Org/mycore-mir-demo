@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/v2/alto-2-1.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <OCRProcessing ID="IdOcr">
+      <preProcessingStep>
+        <processingAgency>intranda GmbH, www.intranda.com</processingAgency>
+      </preProcessingStep>
+      <ocrProcessingStep>
+        <processingDateTime>2015-06-07</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>ABBYY</softwareCreator>
+          <softwareName>ABBYY FineReader Engine</softwareName>
+          <softwareVersion>11</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Styles>
+    <TextStyle ID="font0" FONTFAMILY="Times New Roman" FONTSIZE="11" />
+  </Styles>
+  <Layout>
+    <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3010" WIDTH="2200">
+      <PrintSpace HEIGHT="3010" WIDTH="2200" VPOS="0" HPOS="0">
+        <Illustration ID="Page1_Block1" HEIGHT="3010" WIDTH="1937" VPOS="0" HPOS="0">
+          <Shape>
+            <Polygon POINTS="16,20 3031,20 3031,1957 16,1957 16,20" />
+          </Shape>
+        </Illustration>
+        <Illustration ID="Page1_Block2" HEIGHT="1746" WIDTH="96" VPOS="1264" HPOS="2104">
+          <Shape>
+            <Polygon POINTS="45,2169 1792,2169 1792,2266 45,2266 45,2169" />
+          </Shape>
+        </Illustration>
+        <TextBlock ID="Page1_Block3" HEIGHT="103" WIDTH="40" VPOS="816" HPOS="2160" language="de" STYLEREFS="font0">
+          <Shape>
+            <Polygon POINTS="2138,2193 2240,2193 2240,2234 2138,2234 2138,2193" />
+          </Shape>
+          <TextLine HEIGHT="103" WIDTH="41" VPOS="816" HPOS="2159">
+            <String WC="1." CONTENT="MW" HEIGHT="103" WIDTH="41" VPOS="816" HPOS="2159" />
+          </TextLine>
+        </TextBlock>
+        <GraphicalElement ID="Page1_Block4" HEIGHT="911" WIDTH="18" VPOS="115" HPOS="0" />
+        <GraphicalElement ID="Page1_Block5" HEIGHT="373" WIDTH="7" VPOS="1028" HPOS="0" />
+        <GraphicalElement ID="Page1_Block6" HEIGHT="374" WIDTH="7" VPOS="1446" HPOS="0" />
+        <GraphicalElement ID="Page1_Block7" HEIGHT="234" WIDTH="5" VPOS="1821" HPOS="0" />
+        <GraphicalElement ID="Page1_Block8" HEIGHT="120" WIDTH="4" VPOS="2074" HPOS="0" />
+        <GraphicalElement ID="Page1_Block9" HEIGHT="94" WIDTH="3" VPOS="2239" HPOS="0" />
+        <GraphicalElement ID="Page1_Block10" HEIGHT="81" WIDTH="3" VPOS="2379" HPOS="0" />
+        <GraphicalElement ID="Page1_Block11" HEIGHT="214" WIDTH="18" VPOS="2392" HPOS="448" />
+        <GraphicalElement ID="Page1_Block12" HEIGHT="142" WIDTH="9" VPOS="2516" HPOS="1035" />
+        <GraphicalElement ID="Page1_Block13" HEIGHT="778" WIDTH="23" VPOS="1257" HPOS="1052" />
+        <GraphicalElement ID="Page1_Block14" HEIGHT="272" WIDTH="10" VPOS="651" HPOS="1073" />
+        <GraphicalElement ID="Page1_Block15" HEIGHT="270" WIDTH="7" VPOS="971" HPOS="1069" />
+        <GraphicalElement ID="Page1_Block16" HEIGHT="133" WIDTH="9" VPOS="346" HPOS="1113" />
+        <GraphicalElement ID="Page1_Block17" HEIGHT="227" WIDTH="10" VPOS="1008" HPOS="1110" />
+        <GraphicalElement ID="Page1_Block18" HEIGHT="175" WIDTH="13" VPOS="1429" HPOS="1294" />
+        <GraphicalElement ID="Page1_Block19" HEIGHT="117" WIDTH="9" VPOS="375" HPOS="1668" />
+        <GraphicalElement ID="Page1_Block20" HEIGHT="152" WIDTH="10" VPOS="2642" HPOS="1649" />
+        <GraphicalElement ID="Page1_Block21" HEIGHT="159" WIDTH="7" VPOS="1509" HPOS="1767" />
+        <GraphicalElement ID="Page1_Block22" HEIGHT="187" WIDTH="7" VPOS="1000" HPOS="1808" />
+        <GraphicalElement ID="Page1_Block23" HEIGHT="154" WIDTH="9" VPOS="533" HPOS="1819" />
+        <GraphicalElement ID="Page1_Block24" HEIGHT="148" WIDTH="11" VPOS="2095" HPOS="1806" />
+        <GraphicalElement ID="Page1_Block25" HEIGHT="226" WIDTH="12" VPOS="2451" HPOS="1806" />
+        <GraphicalElement ID="Page1_Block26" HEIGHT="132" WIDTH="9" VPOS="1519" HPOS="1834" />
+        <GraphicalElement ID="Page1_Block27" HEIGHT="124" WIDTH="10" VPOS="790" HPOS="1859" />
+        <GraphicalElement ID="Page1_Block28" HEIGHT="164" WIDTH="6" VPOS="716" HPOS="2151" />
+        <GraphicalElement ID="Page1_Block29" HEIGHT="199" WIDTH="6" VPOS="2107" HPOS="2160" />
+        <GraphicalElement ID="Page1_Block30" HEIGHT="19" WIDTH="233" VPOS="2455" HPOS="457" />
+        <GraphicalElement ID="Page1_Block31" HEIGHT="16" WIDTH="332" VPOS="2097" HPOS="1263" />
+        <GraphicalElement ID="Page1_Block32" HEIGHT="9" WIDTH="138" VPOS="2097" HPOS="1692" />
+        <GraphicalElement ID="Page1_Block33" HEIGHT="10" WIDTH="244" VPOS="318" HPOS="609" />
+        <GraphicalElement ID="Page1_Block34" HEIGHT="8" WIDTH="150" VPOS="307" HPOS="286" />
+        <GraphicalElement ID="Page1_Block35" HEIGHT="16" WIDTH="287" VPOS="300" HPOS="562" />
+        <GraphicalElement ID="Page1_Block36" HEIGHT="72" WIDTH="4" VPOS="1565" HPOS="1813" />
+        <GraphicalElement ID="Page1_Block37" HEIGHT="109" WIDTH="13" VPOS="2455" HPOS="1856" />
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
