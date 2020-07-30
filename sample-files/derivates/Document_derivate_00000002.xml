@@ -10,6 +10,9 @@
             <internal inherited="0" sourcepath="Document_derivate_00000002" maindoc="handreichung-publikationsfonds.pdf"
                       ifsid="hhd0ow1i00oaddw0"/>
         </internals>
+        <classifications class="MCRMetaClassification" heritable="false">
+            <classification inherited="0" classid="derivate_types" categid="content"/>
+        </classifications>
     </derivate>
     <service>
         <servdates class="MCRMetaISO8601Date">

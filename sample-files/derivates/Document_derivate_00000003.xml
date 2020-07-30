@@ -10,6 +10,9 @@
             <internal inherited="0" sourcepath="Document_derivate_00000003"
                       maindoc="MyCoRe-Poster-A0_DBT2014_Oeltjen.pdf" />
         </internals>
+        <classifications class="MCRMetaClassification" heritable="false">
+            <classification inherited="0" classid="derivate_types" categid="content"/>
+        </classifications>
     </derivate>
     <service>
         <servdates class="MCRMetaISO8601Date">

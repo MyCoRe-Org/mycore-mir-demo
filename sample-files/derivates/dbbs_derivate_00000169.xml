@@ -7,6 +7,9 @@
     <internals class="MCRMetaIFS" heritable="false">
       <internal inherited="0" sourcepath="dbbs_derivate_00000169" maindoc="max/00000002.jpg" />
     </internals>
+    <classifications class="MCRMetaClassification" heritable="false">
+      <classification inherited="0" classid="derivate_types" categid="content"/>
+    </classifications>
   </derivate>
   <service>
     <servdates class="MCRMetaISO8601Date">
