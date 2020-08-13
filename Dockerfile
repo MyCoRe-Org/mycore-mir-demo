@@ -12,7 +12,9 @@ ENV JAVA_OPTS="-Xmx1g -Xms1g"
 ENV APP_CONTEXT="mir"
 COPY docker-entrypoint.sh /usr/local/bin/mir.sh
 COPY sample-files /opt/mir/sample-files
+COPY sample-users /opt/mir/sample-users
 COPY load-sample-files.txt /opt/mir/load-sample-files.txt
+COPY load-sample-users.txt /opt/mir/load-sample-users.txt
 COPY --from=bibutils --chown=root:root /usr/local/bin/* /usr/local/bin/
 RUN ["chmod", "+x", "/usr/local/bin/mir.sh"]
 RUN rm -rf /usr/local/tomcat/webapps/* && \

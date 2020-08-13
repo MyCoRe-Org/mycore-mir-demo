@@ -1,0 +1,1 @@
+import all users from directory /opt/mir/sample-users

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user locked="false" disabled="false" name="editor" realm="local">
+    <roles>
+        <role name="editor">
+            <label xml:lang="de" text="Bearbeiter" />
+            <label xml:lang="en" text="Editor" />
+        </role>
+    </roles>
+    <attributes />
+    <password hash="8b15dbfee5337f4e45ebda008093fd99133b63ccaef0121e2b9e1620744e7a4d" salt="nQYCXX4J47U=" hashType="sha256" />
+</user>

@@ -8,6 +8,6 @@ docker build . --build-arg MIR_VERSION="2020.08-SNAPSHOT" -t mycore/mir:master &
 mkdir -p ./solr/2019 && chown 8983:8983 ./solr/2019 && \
 mkdir -p ./solr/2020 && chown 8983:8983 ./solr/2020 && \
 mkdir -p ./solr/master && chown 8983:8983 ./solr/master && \
-docker-compose create && \
+docker-compose up --no-start && \
 docker-compose start
 

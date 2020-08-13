@@ -47,6 +47,7 @@ function setUpMyCoRe {
 
     /opt/mir/mir/bin/setup.sh
     /opt/mir/mir/bin/mir.sh "process /opt/mir/load-sample-files.txt"
+    /opt/mir/mir/bin/mir.sh "process /opt/mir/load-sample-users.txt"
 
 }
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user locked="false" disabled="false" name="autor" realm="local">
+    <roles>
+        <role name="submitter">
+            <label xml:lang="de" text="Autoren" />
+            <label xml:lang="en" text="Author" />
+        </role>
+    </roles>
+    <attributes />
+    <password hash="0cf7d1bcc03b8f1276225fbdae37c24040512a68642f8d19f3e2679bae7c877a" salt="kW59X6uP24c=" hashType="sha256" />
+</user>
