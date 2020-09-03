@@ -31,6 +31,12 @@ function setUpMyCoRe {
     sed -ri "s/(<\/properties>)/<property name=\"hibernate\.connection\.provider_class\" value=\"org\.hibernate\.connection\.C3P0ConnectionProvider\" \/>\n<property name=\"hibernate\.c3p0\.min_size\" value=\"2\" \/>\n<property name=\"hibernate\.c3p0\.max_size\" value=\"50\" \/>\n<property name=\"hibernate\.c3p0\.acquire_increment\" value=\"2\" \/>\n<property name=\"hibernate\.c3p0\.max_statements\" value=\"30\" \/>\n<property name=\"hibernate\.c3p0\.timeout\" value=\"1800\" \/>\n\1/" "${MCR_HOME}resources/META-INF/persistence.xml"
     sed -ri "s/#?(MCR\.Solr\.ServerURL=).+/\1${SOLR_URL}/" "${MCR_HOME}mycore.properties"
     sed -ri "s/#?(MCR\.Solr\.Core\.main\.Name=).+/\1${SOLR_CORE}/" "${MCR_HOME}mycore.properties"
+    if [[ $MIR_FEATURES =~ "IIIFPresentation" ]];
+    then
+      echo "MCR.IIIFPresentation.Default=Mets" >> "${MCR_HOME}mycore.properties"
+      echo "MCR.IIIFPresentation.Mets=org.mycore.mets.iiif.MCRMetsIIIFPresentationImpl" >> "${MCR_HOME}mycore.properties"
+      echo "MCR.IIIFPresentation.Mets.Transformer=mets-dfg" >> "${MCR_HOME}mycore.properties"
+    fi
     mkdir -p "${MCR_HOME}lib"
 
     case $JDBC_DRIVER in

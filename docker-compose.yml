@@ -29,6 +29,7 @@ services:
       MCR_HOME: /root/.mycore/mir-master/
       SOLR_URL: http:\/\/mir-master-solr\:8983
       SOLR_CORE: mir
+      MIR_FEATURES: "IIIFPresentation"
     volumes:
     - ./mir/master:/root/.mycore/mir-master/
     depends_on:
@@ -65,6 +66,7 @@ services:
       MCR_HOME: /root/.mycore/mir/
       SOLR_URL: http:\/\/mir-2020-solr\:8983
       SOLR_CORE: mir
+      MIR_FEATURES: "IIIFPresentation"
     volumes:
       - ./mir/2020:/root/.mycore/mir/
     depends_on:

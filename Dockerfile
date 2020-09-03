@@ -10,6 +10,7 @@ ARG PACKET_SIZE="65536"
 ARG MIR_VERSION="2020.06.0-SNAPSHOT"
 ENV JAVA_OPTS="-Xmx1g -Xms1g"
 ENV APP_CONTEXT="mir"
+ENV MIR_FEATURES=""
 COPY docker-entrypoint.sh /usr/local/bin/mir.sh
 COPY sample-files /opt/mir/sample-files
 COPY sample-users /opt/mir/sample-users
