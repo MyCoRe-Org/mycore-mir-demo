@@ -55,7 +55,7 @@ services:
     environment:
       SOLR_HOME: /opt/solr-data
   mir-2020:
-    image: mycore/mir:2020.06.0
+    image: mycore/mir:2020.06.1
     restart: always
     environment:
       APP_CONTEXT: mir
