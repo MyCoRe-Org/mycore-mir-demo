@@ -27,7 +27,7 @@ function setUpMyCoRe {
     sed -ri "s/(name=\"javax.persistence.jdbc.driver\" value=\").*(\")/\1${JDBC_DRIVER}\2/" "${MCR_HOME}resources/META-INF/persistence.xml"
     sed -ri "s/(name=\"javax.persistence.jdbc.url\" value=\").*(\")/\1${JDBC_URL}\2/" "${MCR_HOME}resources/META-INF/persistence.xml"
     sed -ri "s/(name=\"hibernate.hbm2ddl.auto\" value=\").*(\")/\1update\2/" "${MCR_HOME}resources/META-INF/persistence.xml"
-    sed -ri "s/<mapping-file>META-INF\/mycore-viewer-mappings.xml<\/mapping-file>/&<mapping-file>META-INF\/mir-module-mappings.xml<\/mapping-file>/" "${MCR_HOME}resources/META-INF/persistence.xml"
+    sed -ri "s/<mapping-file>META-INF\/mycore-viewer-mappings.xml<\/mapping-file>/&<mapping-file>META-INF\/mir-module-mappings.xml<\/mapping-file><mapping-file>META-INF\/mycore-acl-mappings.xml<\/mapping-file>/" "${MCR_HOME}resources/META-INF/persistence.xml"
     sed -ri "s/(<\/properties>)/<property name=\"hibernate\.connection\.provider_class\" value=\"org\.hibernate\.connection\.C3P0ConnectionProvider\" \/>\n<property name=\"hibernate\.c3p0\.min_size\" value=\"2\" \/>\n<property name=\"hibernate\.c3p0\.max_size\" value=\"50\" \/>\n<property name=\"hibernate\.c3p0\.acquire_increment\" value=\"2\" \/>\n<property name=\"hibernate\.c3p0\.max_statements\" value=\"30\" \/>\n<property name=\"hibernate\.c3p0\.timeout\" value=\"1800\" \/>\n\1/" "${MCR_HOME}resources/META-INF/persistence.xml"
     sed -ri "s/#?(MCR\.Solr\.ServerURL=).+/\1${SOLR_URL}/" "${MCR_HOME}mycore.properties"
     sed -ri "s/#?(MCR\.Solr\.Core\.main\.Name=).+/\1${SOLR_CORE}/" "${MCR_HOME}mycore.properties"
